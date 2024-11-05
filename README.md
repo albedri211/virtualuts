@@ -41,7 +41,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author mdinal
+ * @author malbedri
  */
 public class KoneksiDB {
 
