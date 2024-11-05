@@ -323,7 +323,7 @@ private void tabel_biodataMouseClicked(java.awt.event.MouseEvent evt) {
 
 ### Jalankan aplikasinya
 
-![img](img/9.png)
+![img](img/9.jpg)
 
 # Laporan
 
