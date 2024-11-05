@@ -6,7 +6,7 @@
 
 ### Pada praktikum ini, kita akan membuat Project baru dengan nama LatihanCRUD, dengan memakai Database pv_biodata dan jFrame seperti jFrame Biodata dengan beberapa perubahan desain :
 
-![img](img/1.png)
+![img](img/1.jpg)
 ![img](img/2.png)
 
 ### Buatlah Project baru dengan nama LatihanCRUD.
@@ -86,7 +86,7 @@ Connection conn = new KoneksiDB().getKoneksi();
 
 ### Pada Package Form, buatlah jFrame Form dengan nama `FormBiodata.`
 
-![img](img/9.png)
+![img](img/9.jpg)
 
 ### Set Properties :
 
